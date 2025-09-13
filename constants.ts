@@ -1,0 +1,15 @@
+export const NEWS_TOPICS = [
+  "Crime",
+  "Technology",
+  "Economics",
+  "Business",
+  "Sports",
+  "Defence",
+  "Politics & Government",
+  "Lifestyle & Culture",
+  "Entertainment",
+  "Environment & Climate",
+  "Health & Wellness",
+  "Education",
+  "Generative AI",
+];
